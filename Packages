@@ -1,0 +1,44 @@
+Package: idv.aqua.igameguardian
+Version: 7.5.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 15000
+Depends: firmware (>= 8.0)
+Filename: ./debs/iGameGuardian_7.5.1_iphoneos-arm_gzip.deb
+Size: 443456
+MD5sum: b210d67b9c140ff01670d9c75cf064ea
+SHA1: 63de58a54d1d62e1c731fa93beb97445daaf52dd
+SHA256: fc220eadc245389f9d457c896332f598964893a6596d53edbcc43430b8bdc95a
+Section: Utilities
+Priority: optional
+Description: iGameGuardian is a memory editor for iOS 8 to 10.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.igameguardian
+Dev: aqua
+Name: iGameGuardian
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.igameguardian/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.igameguardian
+Version: 8.3
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 15000
+Depends: firmware (>= 8.0)
+Filename: ./debs/iGameGuardian_8.3_iphoneos-arm_gzip.deb
+Size: 442940
+MD5sum: 231a7adac31c8e83ea115cf2a0837229
+SHA1: 5e1f4a7afa21c2cf6b56f1de723df8b5eeb70485
+SHA256: 260deea52cd222c24dcd3917b7e600e01dce81861c712236698e0e321f50412d
+Section: Utilities
+Priority: optional
+Description: iGameGuardian is a memory editor for iOS 8 to 11.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.igameguardian
+Dev: aqua
+Name: iGameGuardian
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.igameguardian/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
